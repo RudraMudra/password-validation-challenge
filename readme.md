@@ -34,6 +34,7 @@ The password must:
 - HTML5
 - CSS3
 - JavaScript (ES6+)
+- TypeScript
 
 ## Contributing
 
